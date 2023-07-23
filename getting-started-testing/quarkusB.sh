@@ -1,0 +1,4 @@
+#!/bin/sh
+
+quarkus build
+
